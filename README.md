@@ -1,0 +1,2 @@
+# cpe40032-m1-5
+The game was designed for people who wants to play with AI (artificial intelligence) or the computer. The first option in the menu is that the first player is the person and the second will be the computer. In the second option, the first player is the computer and the second one is the person. For the third option, both players are computers. The one who gets ten points first will be the winner of the game.
